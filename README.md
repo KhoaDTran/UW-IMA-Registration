@@ -1,5 +1,5 @@
 # UW IMA Registration
-Script to acquire any desired ima appointment that is or isn't available. Any unavailable appointments will be searched until there is a spot open due to cancelation. 
+Script to acquire any desired IMA appointment that is currently offered, either avaliable or unavaliable, script will search for desired appointment slot until acquired or current time has passed. User can either search for appointments in the future or the present day. 
 
 INSTRUCTIONS:
 1. Install selenium in terminal using pip
